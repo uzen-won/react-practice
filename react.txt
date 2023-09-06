@@ -1,0 +1,13 @@
+public/index/html, src/index.js 는 파일명을 수정하지 않는다.
+
+index.html은 public폴더 안에있는 파일들에게서만 영향을 받는다.
+
+src 폴더 안에 js, css 파일들을 넣는다.
+src폴더에 있는 파일들만 웹팩에 의해 처리된다.
+
+
+
+JSX (Javascript syntax extension)
+자바스크립트 확장 문법.
+자바스크립트 안에서 UI작업을 하는데 사용한다.
+<문법>
